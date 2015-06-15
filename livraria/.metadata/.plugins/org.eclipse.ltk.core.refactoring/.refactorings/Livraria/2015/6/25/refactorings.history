@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 5 elements to &apos;livraria2/src&apos;&#x0A;- Original project: &apos;Livraria&apos;&#x0A;- Destination element: &apos;livraria2/src&apos;&#x0A;- Original elements:&#x0A;     livraria.CalculadoraDeEstoque.java&#x0A;     livraria.MeuPrimeiroPrograma.java&#x0A;     livraria.Autor.java&#x0A;     livraria.Livro.java&#x0A;     livraria.CadastroDeLivros.java" description="Copy compilation units" destination="=livraria2/src" element1="/src&lt;livraria{CalculadoraDeEstoque.java" element2="/src&lt;livraria{MeuPrimeiroPrograma.java" element3="/src&lt;livraria{Autor.java" element4="/src&lt;livraria{Livro.java" element5="/src&lt;livraria{CadastroDeLivros.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1434378255475" units="5" version="1.0"/>
+</session>
