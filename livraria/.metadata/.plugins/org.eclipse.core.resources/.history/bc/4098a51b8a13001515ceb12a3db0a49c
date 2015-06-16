@@ -1,0 +1,23 @@
+package livraria;
+
+public class RegistroDeVendas {
+	public static void main(String[] args){
+		Autor autor = new Autor();
+		autor.setNome("Mauricio Aniche");
+		
+		LivroFisico fisico = new LivroFisico(autor);
+		fisico.setNome("Test-drive Development");
+		
+		Ebook ebook = new Ebook(autor);
+		ebook.setNome("Test-drive Development");
+		
+		CarrinhoDeCompras carrinho = new CarrinhoDeCompras();
+		
+		carrinho.adicionar(fisico);
+		carrinho.adicionar(ebook);
+		
+		System.out.println("Total:\t" + carrinho.getTotal());
+		
+		
+	}
+}
