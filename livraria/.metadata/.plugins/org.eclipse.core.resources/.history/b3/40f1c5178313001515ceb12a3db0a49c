@@ -1,0 +1,7 @@
+package livraria;
+
+import java.awt.print.Book;
+
+public class Ebook extends Book {
+
+}
